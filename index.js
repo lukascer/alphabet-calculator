@@ -5,5 +5,7 @@ const calcAlphabetFindLetter = (number) => { return alphabet[number] }
 
 module.exports = {
     calcAlphabetFindPos: calcAlphabetFindPos,
-    calcAlphabetFindLetter: calcAlphabetFindLetter
+    findPosition: calcAlphabetFindPos,
+    calcAlphabetFindLetter: calcAlphabetFindLetter,
+    findLetter: calcAlphabetFindLetter
 }
