@@ -3,7 +3,8 @@ alphabet-calculator module calculates position of a letter in alphabet and backw
 Range: A - AZ.
 
 -> npm install alphabet-calculator
-const alphabetCalculator = require('alphabet-calculator')
+
+--> const alphabetCalculator = require('alphabet-calculator')
 
 alphabet-calculator module has 2 methods:
 
