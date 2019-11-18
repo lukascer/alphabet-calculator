@@ -1,6 +1,6 @@
 {
   "name": "@lukascer/alphabet-calculator",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Calculates position of a letter in alphabet and backwards -> useful for sheets",
   "main": "index.js",
   "scripts": {
