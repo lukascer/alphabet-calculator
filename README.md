@@ -2,18 +2,19 @@ alphabet-calculator module calculates position of a letter in alphabet and backw
 
 Range: A - AZ.
 
+-> npm install alphabet-calculator
 
 alphabet-calculator module has 2 methods:
 
-calcAlphabetFindPos(letter)
+findPosition(letter)
 - returns a position of the letter
 
 example
-calcAlphabetFindPos('A') returns 0
+findPosition('A') returns 0
 
 
-calcAlphabetFindLetter(number)
+findLetter(number)
 - returns a letter
 
 example
-calcAlphabetFindLetter(0) returns 'A'
+findLetter(0) returns 'A'
