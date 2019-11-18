@@ -1,6 +1,6 @@
 {
   "name": "@lukascer/alphabet-calculator",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "Calculates position of a letter in alphabet and backwards -> useful for sheets",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "sheets"
   ],
   "repository": {
-    "url": "https://github.com/lukascer/alphabet-calculator.git"
+    "url": "git://github.com/lukascer/alphabet-calculator.git"
   },
   "author": "Lukas Cernohous <lukas.cernohous@email.cz>",
   "license": "ISC"
